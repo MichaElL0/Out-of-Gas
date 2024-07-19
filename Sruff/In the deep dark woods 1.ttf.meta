@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 75791bc16a510044faa853123c5abc88
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - In the deep dark woods
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e878d74a45c0ed45a242f3e626029cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
